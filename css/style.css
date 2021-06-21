@@ -1,0 +1,29 @@
+.heading{
+	color: red;
+}
+.span{
+	background-color: black;
+	color: white;
+	bordr: 10px solid yellow;
+	border-radius: 5px ;
+}
+.paragraph{
+	border: 12px dotted green;
+	display: inline;
+}
+#audio{
+	display: inline;
+}
+.iframe{
+	width: 50%;
+	display: inline;
+}
+.video{
+	display: inline;
+	width: 50%;
+}
+.myDiv{
+	text-decoration: overline;
+	color: blue;
+	font-size: 30px;
+}
